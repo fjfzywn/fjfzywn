@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://232729.github.io</id>
+    <id>https://ls.232729.com</id>
     <title>谈妖说怪</title>
-    <updated>2021-04-30T17:01:37.599Z</updated>
+    <updated>2021-04-30T17:03:36.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://232729.github.io"/>
-    <link rel="self" href="https://232729.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ls.232729.com"/>
+    <link rel="self" href="https://ls.232729.com/atom.xml"/>
     <subtitle>谈谈妖、聊聊魔、讲讲鬼、说说怪</subtitle>
-    <logo>https://232729.github.io/images/avatar.png</logo>
-    <icon>https://232729.github.io/favicon.ico</icon>
+    <logo>https://ls.232729.com/images/avatar.png</logo>
+    <icon>https://ls.232729.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 谈妖说怪</rights>
     <entry>
         <title type="html"><![CDATA[天吴]]></title>
-        <id>https://232729.github.io/post/tian-wu/</id>
-        <link href="https://232729.github.io/post/tian-wu/">
+        <id>https://ls.232729.com/post/tian-wu/</id>
+        <link href="https://ls.232729.com/post/tian-wu/">
         </link>
         <updated>2021-04-30T15:28:32.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>   天吴是古代中国神话传说中的水神。他人面虎身，这与吴人的狩猎生活密切相关。吴人以狩猎为生，而“虎为百臂之王”，因此，吴人崇拜一种似虎的动物，这种古动物可能在先秦时变得稀少而绝迹了。“《山海经》曰：天吴，八首八面，虎身，八足八尾，系青黄色，吐云雾，司水。说的就是这天吴是古代的一个水神，前面都是对他模样的一个形容，是一个怪物一样的神仙。
@@ -25,7 +25,7 @@
         <content type="html"><![CDATA[<pre><code>   天吴是古代中国神话传说中的水神。他人面虎身，这与吴人的狩猎生活密切相关。吴人以狩猎为生，而“虎为百臂之王”，因此，吴人崇拜一种似虎的动物，这种古动物可能在先秦时变得稀少而绝迹了。“《山海经》曰：天吴，八首八面，虎身，八足八尾，系青黄色，吐云雾，司水。说的就是这天吴是古代的一个水神，前面都是对他模样的一个形容，是一个怪物一样的神仙。
    朝阳之谷，神曰天吴，是为水伯。在爫爫北两水间。其为兽也，八首人面，八足八尾，皆青黄。
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://232729.github.io/post-images/1619796951726.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://ls.232729.com/post-images/1619796951726.jpg" alt="" loading="lazy"></figure>
 <p><strong>特征</strong></p>
 <!-- more -->
 <!-- more -->
@@ -43,8 +43,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://232729.github.io/post/hello-gridea/</id>
-        <link href="https://232729.github.io/post/hello-gridea/">
+        <id>https://ls.232729.com/post/hello-gridea/</id>
+        <link href="https://ls.232729.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
