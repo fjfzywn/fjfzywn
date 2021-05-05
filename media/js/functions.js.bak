@@ -87,8 +87,6 @@
 			if(url)
 				document.location = url;
         });
-        //相对时间
-        $.lately({ 'target': '.lately' });
 
         // Back to top button
         var bt;
