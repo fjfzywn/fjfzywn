@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.232729.com</id>
     <title>谈妖说怪</title>
-    <updated>2021-05-06T03:07:09.323Z</updated>
+    <updated>2021-05-06T07:24:46.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.232729.com"/>
     <link rel="self" href="https://www.232729.com/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 谈妖说怪</rights>
     <entry>
         <title type="html"><![CDATA[凿齿]]></title>
-        <id>https://www.232729.com/post/zao-chi/</id>
-        <link href="https://www.232729.com/post/zao-chi/">
+        <id>https://www.232729.com/zao-chi/</id>
+        <link href="https://www.232729.com/zao-chi/">
         </link>
         <updated>2021-05-05T10:13:34.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一种居住在中国南部沼泽地带的怪兽，会用长牙掠食人类，是一种凶残的怪兽。</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[梅山七怪]]></title>
-        <id>https://www.232729.com/post/mei-shan-qi-guai/</id>
-        <link href="https://www.232729.com/post/mei-shan-qi-guai/">
+        <id>https://www.232729.com/mei-shan-qi-guai/</id>
+        <link href="https://www.232729.com/mei-shan-qi-guai/">
         </link>
         <updated>2021-05-05T09:14:43.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国神魔小说《封神演义》中的妖怪，分别由白猿、猪、牛、狗、羊、蛇和蜈蚣七种动物修炼而成，其中白猿最厉害。</p>
@@ -58,8 +58,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[唤人蛇]]></title>
-        <id>https://www.232729.com/post/huan-ren-she/</id>
-        <link href="https://www.232729.com/post/huan-ren-she/">
+        <id>https://www.232729.com/huan-ren-she/</id>
+        <link href="https://www.232729.com/huan-ren-she/">
         </link>
         <updated>2021-05-05T09:11:37.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 广西近郊的趾山有种蛇叫作唤人蛇，这种蛇平时藏在草木间，遇到有人经过，就大喊：“从哪来？到哪去？”不知道的人往往就答应了。
@@ -75,8 +75,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[马绊蛇]]></title>
-        <id>https://www.232729.com/post/ma-ban-she/</id>
-        <link href="https://www.232729.com/post/ma-ban-she/">
+        <id>https://www.232729.com/ma-ban-she/</id>
+        <link href="https://www.232729.com/ma-ban-she/">
         </link>
         <updated>2021-05-05T09:08:13.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 马绊蛇又称马绊，体形巨大如龙，移动之痕迹，宛如将小屋拖过般，十分骇人。
@@ -92,8 +92,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[钩蛇]]></title>
-        <id>https://www.232729.com/post/gou-she/</id>
-        <link href="https://www.232729.com/post/gou-she/">
+        <id>https://www.232729.com/gou-she/</id>
+        <link href="https://www.232729.com/gou-she/">
         </link>
         <updated>2021-05-05T09:04:14.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 传说中的一种蛇类，为两栖生物，一般生活在水中。钩蛇性情凶猛好斗，身上有剧毒。
@@ -109,8 +109,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[委蛇]]></title>
-        <id>https://www.232729.com/post/wei-she/</id>
-        <link href="https://www.232729.com/post/wei-she/">
+        <id>https://www.232729.com/wei-she/</id>
+        <link href="https://www.232729.com/wei-she/">
         </link>
         <updated>2021-05-05T08:54:37.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 传说中一种人首蛇身的妖怪，形貌怪异，却是有野心者期待看到的鬼怪。
@@ -136,8 +136,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[担生]]></title>
-        <id>https://www.232729.com/post/dan-sheng/</id>
-        <link href="https://www.232729.com/post/dan-sheng/">
+        <id>https://www.232729.com/dan-sheng/</id>
+        <link href="https://www.232729.com/dan-sheng/">
         </link>
         <updated>2021-05-05T08:50:13.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 传说中引起水害的巨蛇。《水经注》里有记载：“人有行于途者，见一小蛇，疑其有灵，持而养之，名曰担生。长而吞噬人，里中患之，遂捕系狱。担生负而奔，邑沦为湖。”</p>
@@ -160,8 +160,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[化蛇]]></title>
-        <id>https://www.232729.com/post/hua-she/</id>
-        <link href="https://www.232729.com/post/hua-she/">
+        <id>https://www.232729.com/hua-she/</id>
+        <link href="https://www.232729.com/hua-she/">
         </link>
         <updated>2021-05-05T08:45:29.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 古代神话故事中的怪兽，它的声音如同婴儿的啼哭，又像是妇人在叱骂。化蛇很少开口，一旦发声就会招来滔天的洪水。</p>
@@ -177,8 +177,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[鸣蛇]]></title>
-        <id>https://www.232729.com/post/ming-she/</id>
-        <link href="https://www.232729.com/post/ming-she/">
+        <id>https://www.232729.com/ming-she/</id>
+        <link href="https://www.232729.com/ming-she/">
         </link>
         <updated>2021-05-05T08:38:04.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一种生活在西南鲜山中的怪蛇，一直吸收天地灵气，逐渐有了灵智的巨蟒。据说这种蛇出现在哪里，哪里就会出现旱情。</p>
@@ -196,8 +196,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[修蛇]]></title>
-        <id>https://www.232729.com/post/xiu-she/</id>
-        <link href="https://www.232729.com/post/xiu-she/">
+        <id>https://www.232729.com/xiu-she/</id>
+        <link href="https://www.232729.com/xiu-she/">
         </link>
         <updated>2021-05-05T08:29:28.000Z</updated>
         <summary type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 神话故事中的巨蛇，也叫巴蛇。相传修蛇居住在洞庭湖一带，吞食过往的动物。据说有一次它生吞了一头大象，过了三年才把骨架吐出来。
