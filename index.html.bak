@@ -967,15 +967,15 @@ MDA6MDDiTe/xAAAAAElFTkSuQmCC"/>
     <div id="app" class="app animated fadeInLeft"> 
      <ul> 
       <li> <a href="http://y.232729.xyz:8822/" target="_blank"><img class="shake" src="img/png/OVM.png" /><strong>小钢炮NAS</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:8081/" target="_blank"><img class="shake" src="img/png/Podcats.png" /><strong>路由网关</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:9000/" target="_blank"><img class="shake" src="img/png/FaceTime.png" /><strong>容器面板</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:3006/" target="_blank"><img class="shake" src="img/png/ESXi.png" /><strong>服务监控</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:8081/" target="_blank"><img class="shake" src="img/png/Podcats.png" /><strong>路由器</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:9000/" target="_blank"><img class="shake" src="img/png/FaceTime.png" /><strong>Docker面板</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:19999/" target="_blank"><img class="shake" src="img/png/ESXi.png" /><strong>数据监控</strong></a> </li> 
       <li> <a href="http://y.232729.xyz:8200/" target="_blank"><img class="shake" src="img/png/Duplicati.png" /><strong>数据备份</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:6846/" target="_blank"><img class="shake" src="img/png/adguard.png" /><strong>思源笔记</strong></a> </li>
-      <li> <a href="http://y.232729.xyz:8998/" target="_blank"><img class="shake" src="img/png/FontExplorer-X.png" /><strong>私有网盘</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:9876/" target="_blank"><img class="shake" src="img/png/dell.png" /><strong>DDNS-GO</strong></a> </li>
+      <li> <a href="http://y.232729.xyz:8998/" target="_blank"><img class="shake" src="img/png/33.png" /><strong>webdav</strong></a> </li> 
       <li> <a href="http://y.232729.xyz:5244/" target="_blank"><img class="shake" src="img/png/DSM2.png" /><strong>网盘集合</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:8384/" target="_blank"><img class="shake" src="img/png/AppStore.png" /><strong>同步文件</strong></a> </li> 
-      <li> <a href="http://y.232729.xyz:5230/" target="_blank"><img class="shake" src="img/png/iCloud-Drive.png" /><strong>灵感笔记</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:8384/" target="_blank"><img class="shake" src="img/png/AppStore.png" /><strong>同步备份</strong></a> </li> 
+      <li> <a href="http://y.232729.xyz:5230/" target="_blank"><img class="shake" src="img/png/iCloud-Drive.png" /><strong>便签笔记</strong></a> </li> 
       <li> <a href="http://y.232729.xyz:8444/" target="_blank"><img class="shake" src="img/png/RouterOS.png" /><strong>在线记账</strong></a> </li> 
       <li> <a href="https://vv.232729.xyz:3943" target="_blank"><img class="shake" src="img/png/Ciscso.png" /><strong>密码服务</strong></a> </li>
       
